@@ -11,3 +11,6 @@ Website: https://anthenamatrix.com
 Twitter: https://twitter.com/AnthenaMatrix/
 
 Telegram: https://t.me/AnthenaMatrix
+
+
+Trade: https://pump.fun/coin/BCLUm3LxruFjEH8wtvrbteaP6wYkvvjmMe7Nbqnbpump
